@@ -1,12 +1,5 @@
 # PROJETO-3-CONSTRUINDO-UM-NEGOCIO-COM-NO-CODE-OU-LOW-CODE
 
-O site da Pizzaria WN foi criado usando a plataforma Webnode, que permite construir sites sem precisar saber programação. É como montar um quebra-cabeça, onde você junta as peças (conteúdo, imagens, etc.) para criar o resultado final.
-
-# Cardápio:
-Explore as deliciosas pizzas, bebidas e vitaminas da WN, com fotos e descrições para te ajudar a escolher.
-# Informações da pizzaria:
-Encontre o endereço, horário de funcionamento e como entrar em contato com a WN.
-# Facilidade de navegação: 
-O site é simples e fácil de usar, para que você encontre tudo o que precisa rapidamente.
-
-Em resumo, o site da Pizzaria WN é uma forma prática e rápida de conhecer os produtos da pizzaria e encontrar as informações que você precisa.
+# Nome da Empresa: Pizzaria WN
+O site Pizzaria WN apresenta uma pizzaria fundada em 2024 por dois amigos, Wesley e Nicolas, apaixonados por pizza. Localizada em um espaço moderno com toques rústicos, a pizzaria oferece um cardápio variado de pizzas e bebidas, destacando a pizza "WN" como uma das mais populares. O ambiente acolhedor e o atendimento próximo dos proprietários têm atraído clientes de todas as idades.
+O site da também serve para apresentar informações essenciais sobre o estabelecimento, como o cardápio de pizzas e bebidas, os horários de funcionamento e o ambiente da pizzaria. Ele também tem o objetivo de atrair novos clientes e fidelizar os antigos, destacando a qualidade dos produtos e o atendimento personalizado. Além disso, o site funciona como uma plataforma de comunicação entre a pizzaria e seus clientes, permitindo que eles conheçam mais sobre a história da pizzaria e suas ofertas. Ele também pode ser útil para promover promoções ou eventos especiais.
